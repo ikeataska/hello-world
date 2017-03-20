@@ -1,0 +1,12 @@
+ <style>  
+  * { margin:10; padding:1;}
+  
+  body { background: url('http://st.depositphotos.com/2330429/2556/v/170/depositphotos_25562321-stock-illustration-vector-background-white-geometric-texture.jpg'); font-family: "Trebuchet MS", "Geneva CE", lucida, sans-serif; ; text-align: justify; border-style: outset; border-width: 5px; border-color: #365899}
+  
+  h1, footer  {background:#365899; color:#fff; display:inline-block; margin-bottom:1em; padding:0.5em 1em; font-family: Tahoma, "Trebuchet MS", "Geneva CE", lucida, sans-serif; font-weight:300; letter-spacing:2px; text-transform:uppercase; }
+  h2  { font-family: Tahoma, "Trebuchet MS", "Geneva CE", lucida, sans-serif; color:#365899; font-weight:900;  font-size:1.5em; letter-spacing:1px; line-height:1em; margin:15px }
+  
+  p,li, blockquote {font-family: "Trebuchet MS", "Geneva CE", lucida, sans-serif; font-size:1em;  line-height:0.5em 1; padding:0.5em 0; margin:15px }
+
+  html { background:#365899; padding:5%; }
+    </style>
